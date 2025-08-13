@@ -1,31 +1,31 @@
-# 🚀 AI-Powered Resume Builder & Job Application Platform
+#  AI-Powered Resume Builder & Job Application Platform
 
 A comprehensive, AI-driven resume builder that helps job seekers create ATS-optimized resumes, generate tailored cover letters, search for jobs, and automate their job application process.
 
 ![Resume Builder](https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
-## ✨ Features
+##  Features
 
-### 🎯 **Smart Resume Builder**
+### **Smart Resume Builder**
 - **Interactive Resume Editor**: Comprehensive resume creation with multiple sections (personal info, experience, education, skills, projects, certifications)
 - **Real-time Validation**: Instant feedback on resume completeness and structure
 - **Multiple Templates**: Professional resume templates optimized for different industries
 - **Auto-save Functionality**: Never lose your work with automatic saving
 
-### 🤖 **AI-Powered Analysis**
+###  **AI-Powered Analysis**
 - **ATS Score Analysis**: Get detailed ATS (Applicant Tracking System) compatibility scores
 - **Smart Suggestions**: AI-powered recommendations for improving your resume
 - **Keyword Optimization**: Identify and optimize keywords for specific job roles
 - **Missing Information Detection**: Automatically detect and suggest missing crucial information
 - **Section-wise Scoring**: Detailed breakdown of each resume section's effectiveness
 
-### 📄 **Intelligent Cover Letter Generator**
+### **Intelligent Cover Letter Generator**
 - **AI-Tailored Letters**: Generate personalized cover letters based on job descriptions
 - **Job Posting Integration**: Paste job descriptions for auto-tailored content
 - **Multiple Formats**: Professional formatting with customizable templates
 - **Company-Specific Customization**: Tailored content for specific companies and roles
 
-### 📤 **Resume Upload & Parsing**
+### **Resume Upload & Parsing**
 - **Smart File Upload**: Drag-and-drop interface for existing resumes
 - **AI-Powered Parsing**: Automatically extract information from PDF/Word documents
 - **Format Detection**: Support for multiple resume formats
@@ -37,19 +37,19 @@ A comprehensive, AI-driven resume builder that helps job seekers create ATS-opti
 - **Job Matching**: AI-powered job recommendations based on your resume
 - **Application Tracking**: Keep track of applied positions
 
-### 📧 **Email Automation & Outreach**
+### **Email Automation & Outreach**
 - **Cold Email Campaigns**: Automated email sequences for job applications
 - **Personalized Templates**: AI-generated personalized email content
 - **Application Tracking**: Monitor email opens, responses, and follow-ups
 - **Company Contact Discovery**: Find relevant hiring managers and recruiters
 
-### 📊 **Application Dashboard**
+###  **Application Dashboard**
 - **Comprehensive Analytics**: Track application success rates and trends
 - **Resume Performance**: Monitor which resumes perform better
 - **Application Status**: Real-time status tracking for all applications
 - **Interview Scheduling**: Manage interview schedules and follow-ups
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 19** - Latest React framework with modern hooks
@@ -77,7 +77,7 @@ A comprehensive, AI-driven resume builder that helps job seekers create ATS-opti
 - **Supervisor** - Process management for production
 - **GitHub Actions** - CI/CD pipeline automation
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+ and Yarn
@@ -154,7 +154,7 @@ yarn start
 - `POST /api/email/send-application` - Send job application email
 - `POST /api/email/campaign` - Create email campaign
 
-## 🔧 Configuration
+##  Configuration
 
 ### AI Configuration
 The application uses Google Gemini for AI-powered features. Configure your API key in the environment variables.
@@ -165,7 +165,7 @@ Adzuna API provides real-time job listings. Sign up at [Adzuna Developer Portal]
 ### Email Automation
 Resend API handles email delivery. Get your API key from [Resend Dashboard](https://resend.com/).
 
-## 🎨 UI/UX Features
+##  UI/UX Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Dark/Light Mode**: User preference-based theme switching
@@ -174,21 +174,21 @@ Resend API handles email delivery. Get your API key from [Resend Dashboard](http
 - **Real-time Updates**: Live resume scoring and suggestions
 - **Drag & Drop**: Intuitive file upload and section reordering
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 - **Data Encryption**: All sensitive data encrypted at rest and in transit
 - **API Security**: Rate limiting and authentication for all endpoints
 - **Privacy Compliance**: GDPR and CCPA compliant data handling
 - **Secure Storage**: Encrypted file storage with access controls
 
-## 📈 Performance
+##  Performance
 
 - **Optimized Loading**: Code splitting and lazy loading for fast initial load
 - **Caching Strategy**: Intelligent caching for API responses
 - **Database Optimization**: Indexed queries for fast data retrieval
 - **CDN Integration**: Static assets served via CDN for global performance
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -198,7 +198,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Google Gemini AI for advanced language processing
 - Adzuna for comprehensive job search API
